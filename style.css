@@ -302,7 +302,7 @@ footer .copy {
   color: var(--grayish-blue);
 }
 
-@media (max-width: 375px) {
+@media (max-width: 500px) {
   .navbar {
     padding: 1rem;
     position: fixed;
